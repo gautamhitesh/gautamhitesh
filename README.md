@@ -1,61 +1,83 @@
-# Hitesh Gautam · Staff Engineer, AI Systems
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-AI-orange?style=flat)
-![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-blueviolet?style=flat)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-> 9 years building distributed systems. Now building the infrastructure that makes AI agents actually work in production.
+<div align="center">
+
+<!-- Capsule Render header banner -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:0F6E56&height=160&section=header&text=Hitesh%20Gautam&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Staff%20Engineer%20%7C%20AI%20Systems%20%26%20Distributed%20Infra&descAlignY=60&descColor=B5D4F4)
+
+<!-- Animated typing headline -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=185FA5&center=true&vCenter=true&width=600&lines=9%2B+years+in+distributed+systems;Building+multi-agent+AI+infrastructure;LangGraph+%7C+Claude+%7C+FastAPI+%7C+Flutter;LLM+as+router%2C+not+executor)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## What I work on
+### What I build
 
-**OpenClaws** — Multi-agent orchestration platform with typed skill callables, LangGraph integration, and multi-LLM adapters (Claude, OpenAI, Groq, Gemini). Treats the LLM as a router, not an executor.
+**OpenClaws** — Multi-agent orchestration platform. Typed skill callables below the LLM layer, LangGraph integration, multi-LLM adapters (Claude, OpenAI, Groq, Gemini), MCP server exposure.
 
-**HealthDB** — Privacy-first AI health record manager. Hybrid RAG (BM25 + dense retrieval + cross-encoder reranking), Flutter mobile, user-owned vault architecture on iCloud/GDrive.
+**HealthDB** — Privacy-first AI health records. Hybrid RAG (BM25 + dense + cross-encoder reranking), Flutter mobile, user-owned vault on iCloud/GDrive.
 
-**LPU AI CoE** — Agentic pipeline infrastructure for a 40,000-student university. Multi-agent platform PRDs, KPI anomaly detection, career services AI.
-
----
-
-## Core Stack
-
-AI Layer       │ Claude (Sonnet/Opus), OpenAI, Groq, Gemini · LangGraph · MCP · OpenRouter
-
-Orchestration  │ Multi-agent pipelines · Temporal · Git worktrees for agent isolation
-
-Backend        │ Python · FastAPI · Node.js · Distributed systems · Event-driven arch
-
-Infra          │ AWS (EventBridge, SNS, SQS) · Kafka · Docker · ChromaDB · PostgreSQL
-
-Mobile         │ Flutter
+**LPU AI CoE** — Agentic pipeline infra for a 40,000-student university. Multi-agent platform, KPI anomaly detection, career services AI.
 
 ---
 
-## Background
+### Stack
 
-- **9+ years** in distributed systems & event-driven architecture
-- Led product engineering at **Comptel Inc.** (deputed via Triangle Digital Ventures)
-- Built early RAG pipelines (invoice parsing, semantic search)
-- Experience across **Salesken AI**, **Nowfloats**, **DLT Apps**, **TEK Systems**
-- AI Centre of Excellence advisor at **Lovely Professional University**
+AI / LLM      │ Claude · OpenAI · Groq · Gemini · LangGraph · MCP · OpenRouter
+
+Orchestration │ Multi-agent pipelines · Temporal · Git worktrees · Event-driven arch
+
+Backend       │ Python · FastAPI · Node.js · Kafka · AWS (EventBridge, SNS, SQS)
+
+Infra         │ Docker · ChromaDB · PostgreSQL · GCP
+
+Mobile        │ Flutter · Riverpod · Drift + SQLCipher
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<!-- Stats card -->
+![Hitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautamhitesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+<!-- Streak stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=gautamhitesh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<!-- Top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamhitesh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
 
 ---
 
-## Writing & Projects
+### Trophies
 
-- 📝 [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) — Opinionated takes on AI infrastructure & agent orchestration
-- 🏥 [HealthDB](https://healthdb.online) — AI-powered health record manager
-- 📸 [aeromaverick2024](https://instagram.com/aeromaverick2024) — Drone cinematography
+<div align="center">
 
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=gautamhitesh&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Currently Exploring
-
-- Cost-optimized model routing (Claude for planning · cheap OSS models for execution)
-- Filesystem-based agent coordination buses
-- Production-grade agentic coding pipelines with Aider + Cline + Opencode
+</div>
 
 ---
 
-*"The LLM is a router, the Agent is an executor, the application repo is a vessel and I am the captain"*
+### Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gautamhitesh/gautamhitesh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gautamhitesh/gautamhitesh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gautamhitesh/gautamhitesh/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![HealthDB](https://img.shields.io/badge/HealthDB-0F6E56?style=for-the-badge&logo=health&logoColor=white)](https://healthdb.online)
+[![Instagram](https://img.shields.io/badge/aeromaverick2024-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aeromaverick2024)
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:185FA5&height=100&section=footer)
+
+</div>
