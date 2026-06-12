@@ -52,7 +52,7 @@ Mobile        │ Flutter · Riverpod · Drift + SQLCipher
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy-orcin-eta.vercel.app?username=gautamhitesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.benkou.dev/?username=gautamhitesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
