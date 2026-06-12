@@ -1,5 +1,9 @@
 # Hitesh Gautam · Staff Engineer, AI Systems
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-AI-orange?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-blueviolet?style=flat)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 > 9 years building distributed systems. Now building the infrastructure that makes AI agents actually work in production.
 
 ---
