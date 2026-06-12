@@ -1,7 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:0F6E56&height=160&section=header&text=Hitesh+Gautam&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Staff+Engineer+%7C+AI+Systems+%26+Distributed+Infra&descAlignY=60&descColor=B5D4F4)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:0F6E56&height=140&section=header&text=Hitesh+Gautam&fontSize=40&fontColor=ffffff&fontAlignY=45)
 <!-- Animated typing headline -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=185FA5&center=true&vCenter=true&width=600&lines=9%2B+years+in+distributed+systems;Building+multi-agent+AI+infrastructure;LangGraph+%7C+Claude+%7C+FastAPI+%7C+Flutter;LLM+as+router%2C+not+executor)](https://git.io/typing-svg)
 
