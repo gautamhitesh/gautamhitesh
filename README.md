@@ -58,7 +58,9 @@ Offline portfolio analysis using local LLMs — zero data sent to external APIs.
 I write about engineering culture, AI's real impact on software teams,  
 and what actually works at scale.
 
-📝 [LinkedIn](https://linkedin.com/in/hitesh-gautam) · 🌐 [hiteshgautam.com](https://hiteshgautam.com) · 📧 hiteshgautam.dev@gmail.com
+📝 [LinkedIn](https://linkedin.com/in/hitesh-gautam) · 
+🌐 [hiteshgautam.com](https://hiteshgautam.com) · 
+📧 hiteshgautam.dev@gmail.com
 
 ### GitHub Stats
 
@@ -75,6 +77,17 @@ and what actually works at scale.
 
 </div>
 
+---
+
+### Trophies
+
+<div align="center">
+
+[![trophy](https://trophy.benkou.dev/?username=gautamhitesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 
 ### Contribution snake
 
