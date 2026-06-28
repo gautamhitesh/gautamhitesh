@@ -13,8 +13,8 @@
 > Go · Distributed Systems · Cloud-Native · AI/GenAI
 
 9 years building systems that hold under pressure.  
-Currently at the intersection of **platform engineering** and **AI** —  
-where one engineer with the right orchestration layer multiplies their output 10×.
+Currently at the intersection of **platform engineering** and 
+**AI** —  where one engineer with the right orchestration layer multiplies their output 10×.
 
 ---
 
@@ -36,19 +36,23 @@ where one engineer with the right orchestration layer multiplies their output 10
 ### 🧠 LPU Nexus — Central AI Platform
 Multi-tenant AI middleware serving an entire university's application ecosystem.
 Single backend for LLM routing, RAG pipelines, semantic caching, RBAC & token tracking.
+
 `Go` `LangGraph` `pgvector` `ChromaDB` `OpenAI API` `RAG` `JWT/PKI`
 
-### 🏥 HealthDB — GenAI Health Tracking
+### 🏥 [HealthDB](https://healthdb.online) — AI Health Assistant
 RAG architecture for predictive patient risk detection.
 Hybrid retrieval: PostgreSQL filters + pgvector cosine similarity + prompt engineering.
+
 `Go` `pgvector` `PostgreSQL` `OpenAI API` `LangChain`
 
 ### 📈 AI Investment Tracker
 Offline portfolio analysis using local LLMs — zero data sent to external APIs.
+
 `Go` `Ollama` `Google Sheets API`
 
 ### ⚡ B2B Invoicing Automation
 10 event-driven Go microservices · 40% reduction in manual ops · $10K+/yr cloud savings.
+
 `Go` `Temporal` `Kafka` `AWS` `Terraform` `OpenAI API`
 
 ---
@@ -62,12 +66,10 @@ and what actually works at scale.
 🌐 [hiteshgautam.com](https://hiteshgautam.com) · 
 📧 hiteshgautam.dev@gmail.com
 
+---
 ### GitHub Stats
 
 <div align="center">
-
-<!-- Stats card -->
-![Hitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautamhitesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 <!-- Streak stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=gautamhitesh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
@@ -79,15 +81,6 @@ and what actually works at scale.
 
 ---
 
-### Trophies
-
-<div align="center">
-
-[![trophy](https://trophy.benkou.dev/?username=gautamhitesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ### Contribution snake
 
