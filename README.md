@@ -8,28 +8,59 @@
 
 ---
 
-### What I build
+# Hitesh Gautam — Senior Backend & Platform Engineer
 
-**OpenClaws** — Multi-agent orchestration platform. Typed skill callables below the LLM layer, LangGraph integration, multi-LLM adapters (Claude, OpenAI, Groq, Gemini), MCP server exposure.
+> Go · Distributed Systems · Cloud-Native · AI/GenAI
 
-**HealthDB** — Privacy-first AI health records. Hybrid RAG (BM25 + dense + cross-encoder reranking), Flutter mobile, user-owned vault on iCloud/GDrive.
-
-**LPU AI CoE** — Agentic pipeline infra for a 40,000-student university. Multi-agent platform, KPI anomaly detection, career services AI.
+9 years building systems that hold under pressure.  
+Currently at the intersection of **platform engineering** and **AI** —  
+where one engineer with the right orchestration layer multiplies their output 10×.
 
 ---
 
-### Stack
+## What I build
 
-AI / LLM      │ Claude · OpenAI · Groq · Gemini · LangGraph · MCP · OpenRouter
+| Area | Stack |
+|------|-------|
+| Backend & APIs | Go, gRPC, REST, Gin, Fiber |
+| Event-driven systems | Kafka, Temporal, SQS/SNS |
+| Cloud infra | AWS, Azure, GCP, Terraform, Kubernetes |
+| AI / GenAI | LangGraph, LangChain, OpenAI API, Ollama, RAG |
+| Vector & Search | pgvector, ChromaDB, Elasticsearch |
+| Observability | Grafana, Kibana, CloudWatch |
 
-Orchestration │ Multi-agent pipelines · Temporal · Git worktrees · Event-driven arch
-
-Backend       │ Python · FastAPI · Node.js · Kafka · AWS (EventBridge, SNS, SQS)
-
-Infra         │ Docker · ChromaDB · PostgreSQL · GCP
-
-Mobile        │ Flutter · Riverpod · Drift + SQLCipher
 ---
+
+## Featured projects
+
+### 🧠 LPU Nexus — Central AI Platform
+Multi-tenant AI middleware serving an entire university's application ecosystem.
+Single backend for LLM routing, RAG pipelines, semantic caching, RBAC & token tracking.
+`Go` `LangGraph` `pgvector` `ChromaDB` `OpenAI API` `RAG` `JWT/PKI`
+
+### 🏥 HealthDB — GenAI Health Tracking
+RAG architecture for predictive patient risk detection.
+Hybrid retrieval: PostgreSQL filters + pgvector cosine similarity + prompt engineering.
+`Go` `pgvector` `PostgreSQL` `OpenAI API` `LangChain`
+
+### 📈 AI Investment Tracker
+Offline portfolio analysis using local LLMs — zero data sent to external APIs.
+`Go` `Ollama` `Google Sheets API`
+
+### ⚡ B2B Invoicing Automation
+10 event-driven Go microservices · 40% reduction in manual ops · $10K+/yr cloud savings.
+`Go` `Temporal` `Kafka` `AWS` `Terraform` `OpenAI API`
+
+---
+
+## Writing & presence
+
+I write about engineering culture, AI's real impact on software teams,  
+and what actually works at scale.
+
+📝 [LinkedIn](https://linkedin.com/in/hitesh-gautam) · 
+🌐 [hiteshgautam.com](https://hiteshgautam.com) · 
+📧 hiteshgautam.dev@gmail.com
 
 ### GitHub Stats
 
