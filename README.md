@@ -94,6 +94,8 @@ and what actually works at scale.
 
 ### Find me
 
+[![LinkedIn](https://img.shields.io/badge/Website:hiteshgautam.com-8A2BE2)](https://hiteshgautam.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hitesh-gautam)
 [![HealthDB](https://img.shields.io/badge/HealthDB-0F6E56?style=for-the-badge&logo=health&logoColor=white)](https://healthdb.online)
 [![Instagram](https://img.shields.io/badge/aeromaverick2024-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aeromaverick2024)
