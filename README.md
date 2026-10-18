@@ -8,9 +8,9 @@
 
 ---
 
-# Hitesh Gautam — Senior Backend & Platform Engineer
+# Hitesh Gautam — Backend & AI Platform Engineer
 
-> Go · Distributed Systems · Cloud-Native · AI/GenAI
+> Go · Java · Distributed Systems · RAG · LLM Orchestration · AWS
 
 9 years building systems that hold under pressure.  
 Currently at the intersection of **platform engineering** and 
@@ -64,7 +64,7 @@ and what actually works at scale.
 
 📝 [LinkedIn](https://linkedin.com/in/hitesh-gautam) · 
 🌐 [hiteshgautam.com](https://hiteshgautam.com) · 
-📧 hiteshgautam.dev@gmail.com
+📧 hiteshgautam.ai@gmail.com
 
 ---
 ### GitHub Stats
