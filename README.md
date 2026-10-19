@@ -33,7 +33,7 @@ Currently at the intersection of **platform engineering** and
 
 ## Featured projects
 
-### 🧠 LPU Nexus — Central AI Platform
+### 🧠 Nexus — Central AI Platform
 Multi-tenant AI middleware serving an entire university's application ecosystem.
 Single backend for LLM routing, RAG pipelines, semantic caching, RBAC & token tracking.
 
